@@ -6,6 +6,10 @@
 
 ###
 
+<h2 align="left">About me</h2>
+
+###
+
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning about Data Engineering<br>🎯 My dream is to work as a Data Engineer someday.</p>
 
 ###
