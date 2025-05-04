@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning about Data Engineering<br>🎯 My dream is to work as a Data Engineer someday.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 Currently diving deep into Data Engineering <br>🎯 Chasing clean data and cleaner code.</p>
 
 ###
 
