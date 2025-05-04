@@ -28,24 +28,19 @@
 
 <h3 align="left">Programming Languages</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sql logo" />
-</div>
+<ul align="left">
+  <li>Python</li>
+  <li>SQL</li>
+</ul>
 
 ###
 
 <h3 align="left">Tools & Frameworks</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" height="30" alt="spark logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" height="30" alt="databricks logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="30" alt="powerbi logo" />
-</div>
-
-###
+<ul align="left">
+  <li>Azure</li>
+  <li>Apache Spark</li>
+  <li>Databricks</li>
+  <li>Power BI</li>
+  <li>Git</li>
+</ul>
