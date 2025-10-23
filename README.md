@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Hi, I'm Gustavo. A passionate Computer Engineer student.</p>
+<p align="left">👨‍💻 Hi, I'm Gustavo. A Computer Engineer student and Data Engineer..</p>
 
 ###
 
