@@ -44,11 +44,15 @@ Focus: Data Engineering, Big Data, and scalable solutions
 ## 🌐 Contact
 
 <p align="center">
+  <a href="https://github.com/gustavovoltolino" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gustavo-voltolino/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:gustavo.voltolino@outlook.com">
-    <img src="https://img.icons8.com/color/48/000000/new-post.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/000000/mail.png" width="40" height="40" alt="Email"/>
   </a>
 </p>
