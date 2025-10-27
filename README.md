@@ -1,46 +1,59 @@
-<h2 align="left">Hello World! 👋</h2>
+# 👋 Hello World! I'm Gustavo Voltolino
 
-###
+**Data Engineer | Computer Engineer | Passionate about Data & Cloud Technologies**
 
-<p align="left">👨‍💻 Hi, I'm Gustavo. A Computer Engineer student and Data Engineer..</p>
+---
 
-###
+## 🧩 About Me
 
-<h2 align="left">About me</h2>
+```
+Name: Gustavo Voltolino
+Profession: Data Engineer | Computer Engineer
+Location: Brazil
+Languages: Portuguese, English
+Hobbies: Working with data, cloud computing, and automating pipelines
+Focus: Data Engineering, Big Data, and scalable solutions
+Programming Languages: Python, SQL
+```
 
-###
+## 🛠️ Tech Stack
 
-<p align="left">✨ Creating bugs since 2020<br>📚 Currently diving deep into Data Engineering <br>🎯 Chasing clean data and cleaner code.</p>
+### 💻 Languages
+- Python
+- SQL
 
-###
+### ⚙️ Tools & Frameworks
+- Azure
+- Apache Spark
+- Databricks
+- Power BI
+- Git
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/gustavo-voltolino/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/guvoltolino">
+    <img alt="Gustavo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=guvoltolino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="192px"/>
   </a>
-</div>
+  <a href="https://github.com/guvoltolino">
+    <img alt="Gustavo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guvoltolino&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="192px"/>
+  </a>
+</p>
 
-###
 
+##  🐍 Contributions
 <img src="https://raw.githubusercontent.com/guvoltolino/guvoltolino/output/snake.svg" alt="Snake animation" />
 
-###
+## 🌐 Contact
 
-<h3 align="left">Programming Languages</h3>
-
-<ul align="left">
-  <li>Python</li>
-  <li>SQL</li>
-</ul>
-
-###
-
-<h3 align="left">Tools & Frameworks</h3>
-
-<ul align="left">
-  <li>Azure</li>
-  <li>Apache Spark</li>
-  <li>Databricks</li>
-  <li>Power BI</li>
-  <li>Git</li>
-</ul>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-voltolino/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="32" height="32"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gustavo.voltolino@eoutlook.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="32" height="32"/>
+  </a>
+</p>
