@@ -1,19 +1,14 @@
 # 👋 Hello World! I'm Gustavo Voltolino
 
-**Data Engineer | Computer Engineer | Passionate about Data & Cloud Technologies**
-
----
-
 ## 🧩 About Me
 
 ```
 Name: Gustavo Voltolino
-Profession: Data Engineer | Computer Engineer
-Location: Brazil
+Profession: Data Engineer
+Location: Brazil, São Paulo
 Languages: Portuguese, English
 Hobbies: Working with data, cloud computing, and automating pipelines
 Focus: Data Engineering, Big Data, and scalable solutions
-Programming Languages: Python, SQL
 ```
 
 ## 🛠️ Tech Stack
