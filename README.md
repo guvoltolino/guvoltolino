@@ -49,6 +49,6 @@ Focus: Data Engineering, Big Data, and scalable solutions
   </a>
   &nbsp;&nbsp;
   <a href="mailto:gustavo.voltolino@outlook.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/new-post.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
