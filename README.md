@@ -1,6 +1,6 @@
 # 👋 Hello World! I'm Gustavo Voltolino
 
-## 🧩 About Me
+## About Me
 
 ```
 Name: Gustavo Voltolino
